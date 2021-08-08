@@ -1,0 +1,7 @@
+name: CommandExample
+version: ${project.version}
+main: Main.CommandExample
+api-version: 1.17
+commands:
+  die:
+    description: a simple of opeted to die
